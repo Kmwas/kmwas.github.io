@@ -9,6 +9,8 @@ const caseStudies = {
       <ul><li>Review calculation rules and requirements</li><li>Identify risky combinations and edge cases</li><li>Design scenario-based coverage</li><li>Validate backend data with SQL</li><li>Compare expected and actual results</li><li>Execute regression across related dashboards and workflows</li></ul>
       <h3>Approach</h3>
       <p>I broke complex rules into individual conditions, combined them into structured scenarios, and validated expected outputs independently using backend data. This helped isolate configuration-specific defects that would have been difficult to catch through UI testing alone.</p>
+      <h3>Outcome</h3>
+      <p>Stronger data confidence, clearer defect evidence, and earlier identification of risky reporting logic before release.</p>
       <h3>Skills demonstrated</h3>
       <p>SQL, business-rule testing, scenario modelling, exploratory testing, requirements analysis, regression testing, and technical investigation.</p>`
   },
@@ -22,6 +24,8 @@ const caseStudies = {
       <ul><li>Identify high-value automation candidates</li><li>Design reusable structures and commands</li><li>Develop Cypress-based automated tests</li><li>Manage test data and environment concerns</li><li>Investigate flaky tests</li><li>Support CI/CD execution</li></ul>
       <h3>Approach</h3>
       <p>I prioritised automation according to business risk, execution frequency, stability, and maintenance cost. Repeated behaviours were extracted into reusable helpers so that test suites stayed readable and easier to maintain.</p>
+      <h3>Outcome</h3>
+      <p>Reduced manual regression effort by up to 50%, shortened testing cycles, and helped teams release faster with more reliable repeatable checks.</p>
       <h3>Skills demonstrated</h3>
       <p>Cypress, JavaScript/TypeScript, regression strategy, reusable test design, Git, CI/CD, and browser debugging.</p>`
   },
@@ -34,7 +38,7 @@ const caseStudies = {
       <h3>Investigation flow</h3>
       <ul><li>Reproduce the problem consistently</li><li>Change one variable at a time</li><li>Inspect console and network activity in DevTools</li><li>Validate request payloads and API responses</li><li>Compare application behaviour with stored data</li><li>Compare environments where relevant</li><li>Document technical evidence alongside reproduction steps</li></ul>
       <h3>Outcome</h3>
-      <p>Providing evidence from multiple layers reduced ambiguity between QA and engineering and helped narrow the investigation to the most likely failure point.</p>
+      <p>Providing evidence from multiple layers reduced ambiguity between QA and engineering, helped narrow the investigation to the most likely failure point, and supported a measurable reduction in production defects.</p>
       <h3>Skills demonstrated</h3>
       <p>DevTools, API testing, SQL, root-cause isolation, environment comparison, defect reporting, and exploratory testing.</p>`
   },
@@ -48,6 +52,8 @@ const caseStudies = {
       <ul><li>Sprint QA planning and effort estimation</li><li>Risk identification and prioritisation</li><li>Regression planning</li><li>Reopened-defect management</li><li>Release readiness communication</li><li>Stakeholder alignment</li><li>Mentoring and supporting QA colleagues</li></ul>
       <h3>Approach</h3>
       <p>I treat QA planning as risk management. Priorities are influenced by business criticality, technical complexity, scope of change, regression risk, and release timing. During release, I communicate what was tested, what remains untested, known defects, and the residual risk of shipping.</p>
+      <h3>Outcome</h3>
+      <p>Improved test efficiency by 35%, mentored 9 junior QAs, reduced feedback loops by 25%, and supported predictable delivery across competing workstreams.</p>
       <h3>Skills demonstrated</h3>
       <p>QA leadership, test strategy, sprint planning, risk management, release communication, mentoring, and cross-functional collaboration.</p>`
   }
