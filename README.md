@@ -22,8 +22,6 @@ Then open `http://localhost:8000`.
 The repository includes `.github/workflows/pages.yml`. Every push to `main` deploys the static site to GitHub Pages once Pages is configured to use **GitHub Actions** as its source.
 
 ## Portfolio updates still to complete
-- Replace `your-email@example.com` with the final professional email
-- Add LinkedIn profile URL
 - Add downloadable CV
 - Replace QA Lab placeholders with live GitHub projects
 - Add verified career impact metrics
